@@ -1,0 +1,3 @@
+// hek9br.js
+const API_KEY = "ypzna2swfj85";
+export default API_KEY;
